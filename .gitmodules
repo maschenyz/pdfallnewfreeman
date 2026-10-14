@@ -1,0 +1,3 @@
+[submodule "craft-fonts"]
+    path = craft-fonts
+    url = https://github.com/storytold/craft-fonts.git
